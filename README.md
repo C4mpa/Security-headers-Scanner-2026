@@ -9,7 +9,8 @@ Prerequisites.
 - Python3
 - requests (pip install requests)
 
-basic web scan
+Basic web scan
+
 python3 security_header_analysis_2026.py -u example.com -t web
 
 Single API target with bearer token
