@@ -5,9 +5,28 @@ Includes scoring, redirect analysis, and exportable JSON/HTML reports for real-w
 
 Powered by OWASP best practices. 🚀
 
-Prerequisites.
-- Python3
-- requests (pip install requests)
+---
+
+## 🚀 Features
+
+- ✅ Web & API analysis modes
+- 🔑 Custom headers support (Authorization, API keys, cookies)
+- ⚠️ Detection of missing & deprecated headers
+- 🔍 Misconfiguration analysis (CSP, HSTS, caching, etc.)
+- 🔄 Redirect chain analysis
+- 📊 Security scoring system
+- 📁 JSON & HTML report export
+- 🎨 Colourful CLI output
+
+---
+
+## 📦 Requirements
+
+- Python 3
+- requests
+
+```bash
+pip install requests
 
 Basic web scan
 
