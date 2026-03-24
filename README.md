@@ -20,7 +20,6 @@ Powered by OWASP best practices. 🚀
 
 ---
 
-```bash
 ## 📦 Requirements
 
 - Python 3  
