@@ -28,6 +28,8 @@ Powered by OWASP best practices. 🚀
 ```bash
 pip install requests
 
+---
+## 📦 How to run
 Basic web scan
 
 python3 security_header_analysis_2026.py -u example.com -t web
