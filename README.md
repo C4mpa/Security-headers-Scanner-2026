@@ -20,16 +20,17 @@ Powered by OWASP best practices. 🚀
 
 ---
 
+```bash
 ## 📦 Requirements
 
-- Python 3
-- requests
+- Python 3  
+- requests  
 
 ```bash
 pip install requests
 
 ---
-## 📦 How to run
+## ⚡ Usage
 Basic web scan
 
 python3 security_header_analysis_2026.py -u example.com -t web
