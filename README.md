@@ -5,6 +5,8 @@ Includes scoring, redirect analysis, and exportable JSON/HTML reports for real-w
 
 Powered by OWASP best practices. 🚀
 
+check my blog: https://pentestingc4mpa.com/
+
 ---
 
 ## 🚀 Features
