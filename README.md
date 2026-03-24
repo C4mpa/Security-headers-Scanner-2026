@@ -24,7 +24,7 @@ Powered by OWASP best practices. 🚀
 
 - Python 3  
 - requests  
-
+---
 ```bash
 pip install requests
 
